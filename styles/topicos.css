@@ -1,0 +1,9 @@
+.topicos {
+    background: var(--azul-degrade);
+    text-align: center;
+}
+
+.topicos__titulo {
+    color: var(--branco);
+    font-weight: 300;
+}
